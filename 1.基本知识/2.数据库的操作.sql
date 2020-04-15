@@ -23,5 +23,7 @@
 
 # 查看当前使用数据库
     select database();
-
+    
+#查看当前有的数据库
+	show databases:
 

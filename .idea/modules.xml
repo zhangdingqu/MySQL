@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MySQL.iml" filepath="$PROJECT_DIR$/.idea/MySQL.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/淘宝解析/tb_web_page_parsing/.idea/tb_web_page_parsing.iml" filepath="$USER_HOME$/PycharmProjects/淘宝解析/tb_web_page_parsing/.idea/tb_web_page_parsing.iml" />
+    </modules>
+  </component>
+</project>
