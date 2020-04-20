@@ -38,6 +38,10 @@
     # 删除表
     drop table studuent;
 
+    # 清空数据库中某表的数据
+
+    truncate table 表名 ;
+
 # 查看表的创建语句
     show create table studuent;
 
